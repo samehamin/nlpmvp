@@ -76,5 +76,3 @@ label,intent
 74,why_verify_identity
 75,wrong_amount_of_cash_received
 76,wrong_exchange_rate_for_cash_withdrawal
-80,balance_check
-81,add_beneficiary_account

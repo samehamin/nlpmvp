@@ -1,0 +1,5 @@
+Remove index column
+^\d*(,)
+
+Select all labels
+(,)\d*$
